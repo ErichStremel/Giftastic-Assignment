@@ -1,3 +1,57 @@
 html {
     text-align: center;
 }
+
+header  {
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-size: 50px;
+    color: aliceblue;
+    background-color: black;
+    /* padding: 60px; */
+    margin-left: 20px;
+    margin-right: 20px;
+    text-shadow: 0 3px black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* box-shadow: 10px 10px lightslategray; */
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Rock Salt', cursive;
+    /* font-family: 'Sedgwick Ave Display', cursive; */
+    /* background-image: url(./brick.jpg); */
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightgrey
+    }
+
+#buttons-view {
+    margin-top: 15px;
+    font-family: monospace;
+    font-size: 15px;
+  
+}
+
+.sport-btn  {
+    border-radius: 35%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+body{
+    text-align: center;
+    /* background-image: url(./background1.jpg); */
+}
+
+#add-sport {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+#sport-form  {
+    float: right;
+    margin-right: 30px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    padding: 15px;
+}
